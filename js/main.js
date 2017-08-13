@@ -10348,7 +10348,16 @@ module.exports = {
         '其它': ['Heaven', '阿里郎', '笛声', '笛声2', '笛声3', '韩国大长今', '恢弘', '今宵花同宿 略轻快', '老情歌', '美人', '牧羊曲', '菩提一棵树', '轻声吟唱 再次喜欢你', '日本', '忘了算了', '拥抱太阳的月亮', '震撼']
     },
 
-    '冥想音乐': ['1分钟暝想', 'Heaven and Earth 天和地', 'Hon+Shirabe', 'Paul Collier', 'Seven Samurai- Ending Theme', 'Shika+no+Tone', '草原', '晨音', '笛声', '笛声和齐特琴', '笛声绿野仙踪', '动物世界', '断情殇', '孤星独吟 萧曲', '鬼笑', '韩国传统笛声', '韩国传统笛声2', '去哪里', '日本Koritsu', '日本Sakura', '日本Shakuhachi', '日本Tiger Tanaka', '日本冥想', '日本冥想音乐月亮', '声音的路', '无所有', '声音的路', '西藏悠远笛声', '萧曲 绿野仙踪', '瑜伽唤醒曲']
+    '冥想音乐': ['1分钟暝想', 'Heaven and Earth 天和地', 'Hon+Shirabe', 'Paul Collier', 'Seven Samurai- Ending Theme', 'Shika+no+Tone', '草原', '晨音', '笛声', '笛声和齐特琴', '笛声绿野仙踪', '动物世界', '断情殇', '孤星独吟 萧曲', '鬼笑', '韩国传统笛声', '韩国传统笛声2', '去哪里', '日本Koritsu', '日本Sakura', '日本Shakuhachi', '日本Tiger Tanaka', '日本冥想', '日本冥想音乐月亮', '声音的路', '无所有', '声音的路', '西藏悠远笛声', '萧曲 绿野仙踪', '瑜伽唤醒曲'],
+
+    '公演音乐': {
+
+        '背景可用音乐': ['All I Want For Christmas Is You', 'Allegretto快旋律', 'Android Porn', 'Canon in D Major', 'Drop The Bass', 'HandClap开场活跃气氛', 'I Want To Disappear', 'Instrumental 尺八 三味', 'Intro (RISE)', 'J\'y Suis Jamais Alle神秘', 'Le moulin蹊跷古怪', 'Lost In The Echo', 'New Thang', 'Ragtime Interlude', 'Red Lips强电子音', 'Right In', 'Rockit (纯音乐)', 'Sad Romance', 'Shanghied', 'The New International Sound', 'The Raising Fighting Spirit超劲爆', 'The Tragedy悲情箫声', 'Timber', 'VERY NICE开场活跃气氛', 'Waltz Of Moonlight', 'Wild Frontier超炫电子音', '悲伤舒缓背景音乐', '贝多芬DJ版Beethoven Virus', '穿越时空的思念', '古灵开头', '欢快', '欢快2', '欢快3', '霍元甲  伴奏', '较欢快', '菊次郎的夏天 欢快常用', '琵琶语 古筝版', '桃花渡 陈悦笛箫', '마리오네트 伴奏', '屠洪刚 - 中国功夫', '信义 (神医)', '形勢逆転 动漫背景音乐', '幽灵公主', '부디', '비익련리(比翼連里)', '이어도사나', '태권무희'],
+
+        '虎队公演音乐': ['Hands Up', 'Hiphop Nation前半部分滑步玻璃舞', 'Into The Arena韩国世界杯加油歌', 'Not Alone三国舞背景音乐', 'We Will Rock You', '阿里郎', '격외선당 有笛声跆舞', '虎队阿里郎', '虎队跆舞音乐集锦', '滑步玻璃舞背景音乐', '쥐불놀이 手部动作多3分钟完整音乐'],
+
+        '活动常用音乐': ['1分钟冥想', 'Autobots动作时可用', 'Autobots史诗般', 'Dinner Is Served 加勒比海盗带转折性', 'FIFA颁奖时可用', 'He\'s a Pirate(他是海盗)-加辅助音', 'it is my life', 'Marathon斯巴达300勇士', 'My Freedom', 'pride main theme动作高潮常用', 'Skull and Crossbones加勒比海盗', 'Star Sky (纯音乐)', 'Strength Of A Thousand Men', 'Sun And Moon', 'The Kinslayer开头震撼', 'The Mass乌云降至感觉', 'the raising fighting spirit 激昂推荐', 'To The End (비운의 끝)超快旋律', 'Touch-and-Go战争感觉', 'War Ridden穿越火线', 'We Are One (Ole Ola)', '北京奥运会柔道跆拳道赛事音乐', '表演入场常用1分钟', '表演综合音乐', '구루지마动感开头音乐', '超震撼背景音乐', '超震撼紧张背景音乐', '그림자와 빛 光和影 宏大', '穿越火线 (伴奏) 酷炫特技动作', '大战 七剑', '道操背景音乐', '公演组合音乐soundclash runaway baby 덤앤더머', '活动常用音乐40-Atlantis', '火影背景', '击破阿里郎', '加勒比海盗Ⅲ-Drink Up Me Hearties', '加勒比海盗黑珍珠', '加勒比海盗主题曲 入场推荐', '家长会配乐 感人背景', '紧张背景音乐3分钟', '紧张气氛音乐1分钟', '开头震撼鼓声', '流星蝴蝶剑背景', '莫扎特结婚狂想曲', '七剑战歌 紧张常用背景音乐6分钟', '七剑战歌-紧张常用背景音乐1分半', '强DJ版Turn Down for What', '拳击跆拳舞', '跆拳道表演歌曲', '特技音乐2分钟', '特技音乐6分钟', '偷功 中华武术背景音乐', '有请主持人上场 - 开头语音及伴奏', '震撼背景音乐', '正派背景音乐1分钟', '中国人民解放军军乐团 - 运动员进行曲']
+    }
 };
 
 /***/ }),
