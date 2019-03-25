@@ -10396,7 +10396,7 @@ $(function () {
     weChatHacks();
 });
 
-window.publicURL = 'http://ouk2f6s3b.bkt.clouddn.com/';
+window.publicURL = 'http://m.yaxuehui.cn/';
 
 var header = new CreatePlayerTitle({
     title: Songs[window.currentSong] || '',
