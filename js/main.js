@@ -10396,7 +10396,7 @@ $(function () {
     weChatHacks();
 });
 
-window.publicURL = 'http://m.yaxuehui.cn/';
+window.publicURL = 'https://yxh.player.clouddin.com';
 
 var header = new CreatePlayerTitle({
     title: Songs[window.currentSong] || '',
